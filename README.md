@@ -6,8 +6,7 @@ This Project demonstrates the Real time detectiog Logos.Logos sometimes also kno
 
 
 <p align="center">
-    <img src="sample/" width=600></br>
-    <img src="g3doc/Screenshot from 2019-08-29 21-22-18.png" width=600></br>    
+    <img src="sample/Screenshot from 2019-08-29 21-22-18.png" width=600></br>    
 </p>
 
 
